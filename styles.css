@@ -1,0 +1,26 @@
+body{
+    background: #fcfcf5;
+    font-family: "Nunito", sans-serif;
+    margin: auto;
+  float: left;
+  padding: 10px;
+}
+  p {
+    text-indent: 30pt;
+  }
+
+
+.container {
+ width: 100%;
+ height: 25rem;}
+
+
+.float-right {
+ float: right;
+    margin-left: 650px;
+    margin-top: -578px;
+}
+.float-left {
+    float: left;
+    width: 36em;
+}
